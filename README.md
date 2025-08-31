@@ -1,1 +1,1 @@
-# Tomato-Leaf-Disease-Detection-systems
+# Tomato-Leaf-Disease-Detection-system
