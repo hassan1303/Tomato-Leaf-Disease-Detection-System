@@ -31,7 +31,7 @@ It helps farmers, researchers, and agriculturists with early diagnosis to preven
 9. Tomato Yellow Leaf Curl Virus  
 10. Healthy  
 
-**Total Images:** ~20,000+ (balanced per class for training/validation/testing)  
+ 
 
 ---
 
