@@ -5,6 +5,10 @@ This AI-powered system detects and classifies tomato leaf diseases. Using deep l
 
 It helps farmers, researchers, and agriculturists with early diagnosis to prevent crop loss and improve yields.
 
+**Currently, the system focuses on 2 classes:** Healthy and Early Blight.  
+Future versions will expand to cover more tomato leaf diseases.
+
+
 ---
 
 ## 🚀 Features
